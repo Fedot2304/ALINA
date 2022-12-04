@@ -57,7 +57,7 @@ footer span{
 	justify-content: end;
 }
 .inst_a{
-	background-image: url(img/inst.svg);
+	background-image: url(img_index/inst.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	width:100px;
@@ -65,7 +65,7 @@ footer span{
 }
 
 .tg_a{
-	background-image: url(img/tg.svg);
+	background-image: url(img_index/tg.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	width: 110px;

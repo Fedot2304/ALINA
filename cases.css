@@ -51,7 +51,7 @@ footer span{
 	padding: 100px 100px 306px 100px;
 	height: 100%;
 	padding-bottom: 306px;
-	background-image: url(img/49.png);
+	background-image: url(case_img/49_1.svg);
 	background-size:100%;
 	overflow: hidden;
 }
@@ -168,14 +168,14 @@ footer span{
 	border: none;
 	background: #D74A8F;
 	font-size: 0px;
-	background-image: url(img/slider/arr.svg);
+	background-image: url(slider/arr.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	padding: 0;
 }
 .slick-next:hover{
 	background: #282828;
-	background-image: url(img/slider/hov.svg);
+	background-image: url(slider/hov.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -186,7 +186,7 @@ footer span{
 	border: none;
 	font-size: 0px;
 	background: #D74A8F;
-	background-image: url(img/slider/arr2.svg);
+	background-image: url(slider/arr2.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	margin-right: 30px;
@@ -195,7 +195,7 @@ footer span{
 
 .slick-prev:hover{
 	background: #282828;
-	background-image: url(img/slider/hov2.svg);
+	background-image: url(slider/hov2.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -397,14 +397,14 @@ footer span{
 	}
 	.slick-prev:hover{
 		background: #D74A8F;
-		background-image: url(img/slider/arr2.svg);
+		background-image: url(slider/arr2.svg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 30%;
 	}
 	.slick-next:hover{
 		background: #D74A8F;
-		background-image: url(img/slider/arr.svg);
+		background-image: url(slider/arr.svg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 30%;

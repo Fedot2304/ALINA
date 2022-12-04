@@ -127,19 +127,19 @@ footer span{
 	position: relative;
 	width: 100%;
 	height: 100%;
-	background-image: url(img/ks_btn.svg);
+	background-image: url(price_img/ks_btn.svg);
 	background-repeat: no-repeat;
 	background-position: center;
 	z-index: 12;
 }
 .vz_btn{
-	background-image: url(img/viz_btn.svg);
+	background-image: url(price_img/viz_btn.svg);
 }
 .up_btn{
-	background-image: url(img/ub_btn.svg);
+	background-image: url(price_img/ub_btn.svg);
 }
 .va_btn{
-	background-image: url(img/va_btn.svg);
+	background-image: url(price_img/va_btn.svg);
 }
 
 .grid_items a{
@@ -198,13 +198,13 @@ footer span{
 	width: 97px;
 	height: 97px;
 	background: #D74A8F;
-	background-image: url(img/gal.svg);
+	background-image: url(price_img/gal.svg);
 	background-size: 100%;
 	background-position: center;
 	border-radius: 16px;
 }
 #bonus{
-	background-image: url(img/smile.svg);
+	background-image: url(price_img/smile.svg);
 }
 .bonus{
 	margin-top: 100px;
@@ -259,23 +259,23 @@ footer span{
 .close{
 	width: 55px;
 	height: 55px;
-	background-image: url(img/close.svg);
+	background-image: url(price_img/close.svg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 
 }
 
 #grid_items_1 {
-	background-image: url(img/ks.png);
+	background-image: url(price_img/ks.png);
 }
 #grid_items_2 {
-	background-image: url(img/viz.png);
+	background-image: url(price_img/viz.png);
 }
 #grid_items_3 {
-	background-image: url(img/ub.png);
+	background-image: url(price_img/ub.png);
 }
 #grid_items_4 {
-	background-image: url(img/va.png);
+	background-image: url(price_img/va.png);
 	margin-bottom: 0;
 }
 
@@ -286,7 +286,7 @@ footer span{
 }
 .bgf{
 	position: absolute;
-	background-image: url(img/bgnast.png);
+	background-image: url(price_img/bgnast.png);
 	background-size: 100%;
 	width: 100%;
 	height: 100%;
@@ -589,7 +589,7 @@ footer span{
 		display: block;
 		width: 100%;
 		height: 255px;
-		background-image: url(img/sf.svg);
+		background-image: url(price_img/sf.svg);
 		background-position: center;
 		background-repeat: no-repeat;
 	}
