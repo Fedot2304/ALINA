@@ -1,16 +1,26 @@
 @font-face {
-	font-family: "Klaxons"; 
-	src: url(fonts/Klaxons.otf) format(truetype); 
+	font-family: 'Klaxons';
+	src: url('fonts/Klaxons.eot');
+	src: local('☺'), url('fonts/Klaxons.woff') format('woff'), url('fonts/Klaxons.ttf') format('truetype'), url('fonts/Klaxons.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 @font-face {
-	font-family: "Elianto"; 
-	src: url(fonts/Elianto-Regular.otf) format(truetype); 
+	font-family: 'Elianto';
+	src: url('fonts/Elianto-Regular.eot');
+	src: local('☺'), url('fonts/Elianto-Regular.woff') format('woff'), url('fonts/Elianto-Regular.ttf') format('truetype'), url('fonts/Elianto-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 
 @font-face {
-	font-family: "Gropled"; 
-	src: url(fonts/Gropled-Bold.otf) format(truetype); 
+	font-family: 'Gropled';
+	src: url('fonts/Gropled-Bold.eot');
+	src: local('☺'), url('fonts/Gropled-Bold.woff') format('woff'), url('fonts/Gropled-Bold.ttf') format('truetype'), url('fonts/Gropled-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
+
 @font-face {
 	font-family: "Particle"; 
 	src: url(fonts/Particle.otf) format(truetype); 
@@ -437,5 +447,29 @@ footer span{
 	}
 	.slick-dots button{
 		width: 40px;
+	}
+}
+@media screen and (max-width: 290px){
+	.nav p{
+		font-size: 70px;
+	}
+	.btn{
+		width: 65px;
+		height: 25px;
+		line-height: 25px;
+		font-size: 15px;
+	}
+	.slider__counter{
+		font-size: 10px;
+	}
+	.dot {
+		margin-left: -10px;
+	}
+	.ar{
+		padding-top: 15px;
+	}
+	.slick-prev ,.slick-next{
+		width: 14px;
+		height: 14px;
 	}
 }
